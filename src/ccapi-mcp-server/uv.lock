@@ -170,11 +170,11 @@ wheels = [
 
 [[package]]
 name = "asteval"
-version = "1.0.5"
+version = "1.0.6"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/b1/ba/31fb900dc07b946450f495d68d0cdeea40d9abda285bff1b9fcea09c08ac/asteval-1.0.5.tar.gz", hash = "sha256:bac3c8dd6d2b789e959cfec9bb296fb8338eec066feae618c462132701fbc665", size = 50826, upload-time = "2024-09-30T01:14:03.85Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/2b/f0/ad92c4bc565918713f9a4b54f06d06ec370e48079fdb50cf432befabee8b/asteval-1.0.6.tar.gz", hash = "sha256:1aa8e7304b2e171a90d64dd269b648cacac4e46fe5de54ac0db24776c0c4a19f", size = 52079, upload-time = "2025-01-19T21:44:03.291Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/0a/0d/2c6aaab67ac566d76322e87827d707214c5f6ffb5a4fcd456a8633da1788/asteval-1.0.5-py3-none-any.whl", hash = "sha256:082b95312578affc8a6d982f7d92b7ac5de05634985c87e7eedd3188d31149fa", size = 21803, upload-time = "2024-09-30T01:14:02.305Z" },
+    { url = "https://files.pythonhosted.org/packages/13/ac/19dbba27e891f39feb4170b884da449ee2699ef4ebb88eefeda364bbbbcf/asteval-1.0.6-py3-none-any.whl", hash = "sha256:5e119ed306e39199fd99c881cea0e306b3f3807f050c9be79829fe274c6378dc", size = 22406, upload-time = "2025-01-19T21:44:01.323Z" },
 ]
 
 [[package]]
@@ -244,16 +244,16 @@ dev = [
 
 [[package]]
 name = "bc-detect-secrets"
-version = "1.5.44"
+version = "1.5.45"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "pyyaml" },
     { name = "requests" },
     { name = "unidiff" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/b7/95/71f4977fa43538777b1168d1359023dcf60ca80b1ff9bc7227d34ff30563/bc_detect_secrets-1.5.44.tar.gz", hash = "sha256:bebd82c56055c600335f85db95f7ca3b434087f16292a0396a60705de1b94183", size = 91288, upload-time = "2025-06-08T14:58:49.969Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/7a/22/389df1a2d5f539593ce22671a401fedbc78d8054b4644dde2c2263f1f343/bc_detect_secrets-1.5.45.tar.gz", hash = "sha256:f05cc539d1865d6f8d65cbd51968e85ec570ee1375447a5a29a5623ca8ea9f2b", size = 91320, upload-time = "2025-09-01T07:51:03.774Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ca/f6/f57aa66bdb0b44b02f3c860079440b17fea7f886dd6cb0b5c7d17cb469d3/bc_detect_secrets-1.5.44-py3-none-any.whl", hash = "sha256:0ab63d6c4f6680ec2dbe42cc3c63480568c55dbb6254afcc5bb6d4375a4e1d27", size = 121144, upload-time = "2025-06-08T14:58:48.519Z" },
+    { url = "https://files.pythonhosted.org/packages/cc/f3/ec71fd2f962686a6a9767402219ea33137b036f99aafc58a9e4a27851f49/bc_detect_secrets-1.5.45-py3-none-any.whl", hash = "sha256:33119be81d2eca91ccf2eabc496737dcb079c581aa4646a0475f5e0619e382d5", size = 121155, upload-time = "2025-09-01T07:51:02.797Z" },
 ]
 
 [[package]]
@@ -496,7 +496,7 @@ wheels = [
 
 [[package]]
 name = "checkov"
-version = "3.2.454"
+version = "3.2.506"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiodns" },
@@ -544,9 +544,9 @@ dependencies = [
     { name = "urllib3" },
     { name = "yarl" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/59/f7/8f143ea2f707f998d611811844038532c85a4529fe6715e766d1d4705ecc/checkov-3.2.454.tar.gz", hash = "sha256:bfa20fccc6b65045e967dc3c63c778eb9672d650406fad79910c656ab4a50bb3", size = 981389, upload-time = "2025-07-24T10:03:37.214Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/bf/d5/f8cc7360fe5aa1db98b3bffd82c998bd0bd2d3ed42c77471581a22bdee70/checkov-3.2.506.tar.gz", hash = "sha256:ccad6c307c161e2dec3ac18cb8a2c9e07c79802bbd14685400afdac48072932c", size = 992856, upload-time = "2026-02-23T12:08:52.751Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f7/44/8877bdf436dd81e219242465bacfbca9c82a3bbdf848ecd6986c7242ed2a/checkov-3.2.454-py3-none-any.whl", hash = "sha256:7de15dba07712be8377cea3b8644418228eee1be5980a3cc49a137ebe3c04a0c", size = 2291498, upload-time = "2025-07-24T10:03:35.819Z" },
+    { url = "https://files.pythonhosted.org/packages/43/8e/a0e7fa861a90973ec6c68358e0d159032e07474cab9ed4f67e608af79d0f/checkov-3.2.506-py3-none-any.whl", hash = "sha256:9c861301c5a09473fd416130c3bbbb23343c6b53b9bf5d4d023b727df6624eeb", size = 2299770, upload-time = "2026-02-23T12:08:50.637Z" },
 ]
 
 [[package]]
@@ -809,11 +809,11 @@ wheels = [
 
 [[package]]
 name = "filelock"
-version = "3.18.0"
+version = "3.20.3"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/0a/10/c23352565a6544bdc5353e0b15fc1c563352101f30e24bf500207a54df9a/filelock-3.18.0.tar.gz", hash = "sha256:adbc88eabb99d2fec8c9c1b229b171f18afa655400173ddc653d5d01501fb9f2", size = 18075, upload-time = "2025-03-14T07:11:40.47Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/1d/65/ce7f1b70157833bf3cb851b556a37d4547ceafc158aa9b34b36782f23696/filelock-3.20.3.tar.gz", hash = "sha256:18c57ee915c7ec61cff0ecf7f0f869936c7c30191bb0cf406f1341778d0834e1", size = 19485, upload-time = "2026-01-09T17:55:05.421Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/4d/36/2a115987e2d8c300a974597416d9de88f2444426de9571f4b59b2cca3acc/filelock-3.18.0-py3-none-any.whl", hash = "sha256:c401f4f8377c4464e6db25fff06205fd89bdd83b65eb0488ed1b160f780e21de", size = 16215, upload-time = "2025-03-14T07:11:39.145Z" },
+    { url = "https://files.pythonhosted.org/packages/b5/36/7fb70f04bf00bc646cd5bb45aa9eddb15e19437a28b8fb2b4a5249fac770/filelock-3.20.3-py3-none-any.whl", hash = "sha256:4b0dda527ee31078689fc205ec4f1c1bf7d56cf88b6dc9426c4f230e46c2dce1", size = 16701, upload-time = "2026-01-09T17:55:04.334Z" },
 ]
 
 [[package]]
@@ -2766,11 +2766,11 @@ wheels = [
 
 [[package]]
 name = "urllib3"
-version = "1.26.20"
+version = "2.6.3"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/e4/e8/6ff5e6bc22095cfc59b6ea711b687e2b7ed4bdb373f7eeec370a97d7392f/urllib3-1.26.20.tar.gz", hash = "sha256:40c2dc0c681e47eb8f90e7e27bf6ff7df2e677421fd46756da1161c39ca70d32", size = 307380, upload-time = "2024-08-29T15:43:11.37Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/c7/24/5f1b3bdffd70275f6661c76461e25f024d5a38a46f04aaca912426a2b1d3/urllib3-2.6.3.tar.gz", hash = "sha256:1b62b6884944a57dbe321509ab94fd4d3b307075e0c2eae991ac71ee15ad38ed", size = 435556, upload-time = "2026-01-07T16:24:43.925Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/33/cf/8435d5a7159e2a9c83a95896ed596f68cf798005fe107cc655b5c5c14704/urllib3-1.26.20-py2.py3-none-any.whl", hash = "sha256:0ed14ccfbf1c30a9072c7ca157e4319b70d65f623e91e7b32fadb2853431016e", size = 144225, upload-time = "2024-08-29T15:43:08.921Z" },
+    { url = "https://files.pythonhosted.org/packages/39/08/aaaad47bc4e9dc8c725e68f9d04865dbcb2052843ff09c97b08904852d84/urllib3-2.6.3-py3-none-any.whl", hash = "sha256:bf272323e553dfb2e87d9bfd225ca7b0f467b919d7bbd355436d3fd37cb0acd4", size = 131584, upload-time = "2026-01-07T16:24:42.685Z" },
 ]
 
 [[package]]
@@ -2789,16 +2789,17 @@ wheels = [
 
 [[package]]
 name = "virtualenv"
-version = "20.31.2"
+version = "20.36.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "distlib" },
     { name = "filelock" },
     { name = "platformdirs" },
+    { name = "typing-extensions", marker = "python_full_version < '3.11'" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/56/2c/444f465fb2c65f40c3a104fd0c495184c4f2336d65baf398e3c75d72ea94/virtualenv-20.31.2.tar.gz", hash = "sha256:e10c0a9d02835e592521be48b332b6caee6887f332c111aa79a09b9e79efc2af", size = 6076316, upload-time = "2025-05-08T17:58:23.811Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/aa/a3/4d310fa5f00863544e1d0f4de93bddec248499ccf97d4791bc3122c9d4f3/virtualenv-20.36.1.tar.gz", hash = "sha256:8befb5c81842c641f8ee658481e42641c68b5eab3521d8e092d18320902466ba", size = 6032239, upload-time = "2026-01-09T18:21:01.296Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f3/40/b1c265d4b2b62b58576588510fc4d1fe60a86319c8de99fd8e9fec617d2c/virtualenv-20.31.2-py3-none-any.whl", hash = "sha256:36efd0d9650ee985f0cad72065001e66d49a6f24eb44d98980f630686243cf11", size = 6057982, upload-time = "2025-05-08T17:58:21.15Z" },
+    { url = "https://files.pythonhosted.org/packages/6a/2a/dc2228b2888f51192c7dc766106cd475f1b768c10caaf9727659726f7391/virtualenv-20.36.1-py3-none-any.whl", hash = "sha256:575a8d6b124ef88f6f51d56d656132389f961062a9177016a50e4f507bbcc19f", size = 6008258, upload-time = "2026-01-09T18:20:59.425Z" },
 ]
 
 [[package]]
